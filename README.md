@@ -2,7 +2,7 @@ Please go under edit and edit this file as needed for your project
 
 # Project Name - 
 # Batch - 
-### Group Leader - IT20212232 - Mr. Asiri Gamage (IT20212232)
+### Group Leader - IT20114244 - Wijerathna S.L.V (LahiruXX)
 ### Member 2 - 
 ### Member 3 - 
 ### Member 4 - 
