@@ -3,7 +3,7 @@ Please go under edit and edit this file as needed for your project
 # Project Name - 
 # Batch - 
 ### Group Leader - IT20114244 - Wijerathna S.L.V (LahiruXX)
-### Member 2 - 
+### Member 2 - IT20014186 - Kannangara K.K.D.P (DulanK123)
 ### Member 3 - 
 ### Member 4 - 
 ### Member 5 - 
