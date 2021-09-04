@@ -1,7 +1,7 @@
 Please go under edit and edit this file as needed for your project
 
-# Project Name - 
-# Batch - 
+# Project Name - Vehicle Management System
+# Batch - Batch 07
 ### Group Leader - IT20114244 - Wijerathna S.L.V (LahiruXX)
 ### Member 2 - IT20014186 - Kannangara K.K.D.P (DulanK123)
 ### Member 3 - IT20014568 - Abeysiriwardena V.C (chathura1999)
@@ -12,7 +12,7 @@ Please go under edit and edit this file as needed for your project
 ### Member 8 - IT20481858 - W.A.Y.A Wickramarathna (yudaraanupa)
 
 #### Brief Description of Project - 
-#### Technologies used - 
+#### Technologies used - MERN Stack
 
 Note - The student's github account should be given in brackets e.g. (IT20212232), this ideally should be your student id 
 
